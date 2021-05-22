@@ -23,7 +23,7 @@ const Covid = () => {
         <>
         <section>
         
-           <h1> LIVE </h1>
+           <h1 class="slider-text1"> LIVE </h1>
            <h2>COVID-19 TRACKER</h2> 
 
            <ul>

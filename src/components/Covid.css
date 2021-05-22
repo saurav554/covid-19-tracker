@@ -1,3 +1,41 @@
-.h1{
+*{
+    margin: 0 0;
+    padding: 0 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#e74c3c;
+}
+
+h1 {
+    color:purple;
+    font-size:2rem;
+    margin-bottom: 2%;
     text-align: center;
+    opacity: 1.0;
+    background: lightgreen;
+}
+    
+
+
+h2{
+    color: #2C3A47;
+    font-size: 2rem;
+    margin-bottom: 2%;
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+}
+
+ul li {
+    display: inline;
+    padding: 1%;
+    font-weight: bold;
+}
+.card__inner p{
+    width: 43%;
+    margin: 1%;
+    padding: 2%;
+    float: left;
+    background-color: white;
+    border-radius: 15px;
 }
