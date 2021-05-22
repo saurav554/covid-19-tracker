@@ -6,12 +6,12 @@
 }
 
 h1 {
-    color:purple;
+    color:black;
     font-size:2rem;
     margin-bottom: 2%;
     text-align: center;
     opacity: 1.0;
-    background: lightgreen;
+    background: red;
 }
     
 
@@ -21,6 +21,8 @@ h2{
     font-size: 2rem;
     margin-bottom: 2%;
     text-align: center;
+    background: lightgreen;
+
 }
 ul{
     list-style-type: none;
@@ -30,11 +32,12 @@ ul li {
     display: inline;
     padding: 1%;
     font-weight: bold;
+    font-style:italic ;
 }
 .card__inner p{
     width: 43%;
     margin: 1%;
-    padding: 2%;
+    padding: 1.2%;
     float: left;
     background-color: white;
     border-radius: 15px;
